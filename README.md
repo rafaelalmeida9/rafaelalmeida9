@@ -4,8 +4,6 @@
 
 A passionate Software Developer, Teacher Assistant, Competitive Programmer, Volunteer and Cibersecurity Competitor at **Ganesh-ICMC**! Also, I love to study, games, teach, meet new people, and, of course, make the difference wherever I am!
 
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30"></img>
-
 <h3>Technologies & Tools I work with:</h3>
 
 * **Programming Languages:**
@@ -16,14 +14,17 @@ A passionate Software Developer, Teacher Assistant, Competitive Programmer, Volu
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-Java-FFFFFF?logo=java&logoColor=white&logoWidth=30"></img>
+  <p></p>
 * **Frameworks:**
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-.Net-512BD4?logo=.Net&logoColor=white&logoWidth=30"></img>
+  <p></p>
 * **Databases:**
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-Postgresql-4169E1?logo=postgresql&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&logoWidth=30"></img>
+  <p></p>
 * **Tools:**
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&logoWidth=30"></img>
@@ -31,6 +32,7 @@ A passionate Software Developer, Teacher Assistant, Competitive Programmer, Volu
   <img src="https://img.shields.io/badge/-Kanban-4479A1?logo=kanban&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-Scrum-4169E1?logo=scrum&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&logoWidth=30"></img>
+  <p></p>
 * **CyberSec Stuff:**
   <img src="https://img.shields.io/badge/-NMap-06B6D4?logo=&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?logo=burpsuite&logoColor=white&logoWidth=30"></img>
@@ -44,6 +46,7 @@ A passionate Software Developer, Teacher Assistant, Competitive Programmer, Volu
   <img src="https://img.shields.io/badge/-Binary_Ninja-E62B1E?logo=&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-Gdb-9933CC?logo=&logoColor=white&logoWidth=30"></img>
+  <p></p>
 
 <h3>Currently Learning and Working on:</h3>
 
