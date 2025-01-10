@@ -63,7 +63,7 @@ A passionate Software Developer, Teacher Assistant, Competitive Programmer, Volu
 
 <h3>My Social Media:</h3>
 
-<link href="https://www.linkedin.com/in/rafaeldealmeida9/"><img src="https://img.shields.io/badge/-Linkedin-1477D1?logo=&linkedinColor=white&logoWidth=30"></link></img>
+<a href="https://www.linkedin.com/in/rafaeldealmeida9/"><img src="https://img.shields.io/badge/-Linkedin-1477D1?logo=&linkedinColor=white&logoWidth=30"></img></a>
 <!--
 **rafaelalmeida9/rafaelalmeida9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
