@@ -17,7 +17,6 @@ A passionate Software Developer, Teacher Assistant, Competitive Programmer, Volu
 * **Frameworks:**
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&logoWidth=30"></img>
-  <img src="https://img.shields.io/badge/-.Net-512BD4?logo=.Net&logoColor=white&logoWidth=30"></img>
   <p></p>
 * **Databases:**
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=30"></img>
@@ -49,7 +48,6 @@ A passionate Software Developer, Teacher Assistant, Competitive Programmer, Volu
 
 <h3>Currently Learning and Working on:</h3>
 
-* .NET
 * System Design and Software Architecture
 * Advanced Algorithms and Data Structures
 * Pentest methodology
