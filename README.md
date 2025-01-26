@@ -9,7 +9,6 @@ A passionate Software Developer, Teacher Assistant, Competitive Programmer, Volu
 * **Programming Languages:**
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-C++-00599C?logo=cpp&logoColor=white&logoWidth=30"></img>
-  <img src="https://img.shields.io/badge/-CSharp-000000?logo=cs&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&logoWidth=30"></img>
   <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&logoWidth=30"></img>
